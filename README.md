@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinjalr7
+- 👋 Hi, I’m Kinjal Rathod
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Data Analyiss
 
